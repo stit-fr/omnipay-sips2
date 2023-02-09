@@ -1,5 +1,5 @@
 {
-    "name": "ambroisemaupate/omnipay-sips2",
+    "name": "stit-fr/omnipay-sips2",
     "description": "Omnipay gateway for Worldline Sips PayPage POST API (Atos Sips 2.0)",
     "type": "library",
     "license": "MIT",
@@ -8,7 +8,11 @@
         {
             "name": "Ambroise Maupate",
             "email": "ambroise@rezo-zero.com"
-        }
+        },
+        {
+            "name": "Philippe STORA",
+            "email": "contact@stit.fr"
+        }        
     ],
     "keywords": [
         "gateway",
